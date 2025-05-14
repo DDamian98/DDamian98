@@ -29,4 +29,4 @@
 - 📱 WhatsApp: +51931784733
 
 ---
-⭐️ De [TU_USUARIO](https://github.com/DDamian98)
+⭐️ De [DDamian98](https://github.com/DDamian98)
