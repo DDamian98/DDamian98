@@ -21,7 +21,7 @@
 - [Municipalidad Provincial de Caravelí](https://www.municaraveli.gob.pe) - Portal gubernamental
 
 ## Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=DDamian98&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DDamian98&layout=compact&theme=radical)
 
 ## Contáctame
 - 📫 Email: davdamian98@gmail.com
