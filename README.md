@@ -20,8 +20,8 @@
 - [Seccion1](https://www.ctmseccion1.com) - Plataforma web corporativa
 - [Municipalidad Provincial de Caravelí](https://www.municaraveli.gob.pe) - Portal gubernamental
 
-## Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=DDamian98&show_icons=true&theme=radical&count_private=true)
+## Mi actividad en GitHub
+![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DDamian98&theme=radical)
 
 ## Contáctame
 - 📫 Email: davdamian98@gmail.com
