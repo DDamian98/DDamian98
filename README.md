@@ -1,29 +1,32 @@
-# ¡Hola! 👋 Soy [Tu Nombre]
+# ¡Hola! 👋 Soy David Reynaldo Damian Mamani
 
 ## Sobre mí
-- 💻 Desarrollador de [tecnologías que usas]
-- 🌱 Actualmente aprendiendo [tecnología o habilidad]
-- 🔭 Trabajando en [proyecto actual]
-- 🎓 [Tu formación académica]
+- 💻 Desarrollador Full Stack con experiencia en PHP, Laravel y Flutter
+- 🌱 Especializado en implementar soluciones eficientes con JavaScript, React y Next.js
+- 🔭 Trabajando en entornos ágiles y colaborando en proyectos innovadores
+- 🚀 Enfocado en el aprendizaje continuo y en aportar valor con soluciones tecnológicas de impacto
 
 ## Habilidades
-- **Lenguajes**: [Python, JavaScript, etc.]
-- **Frameworks**: [React, Django, etc.]
-- **Herramientas**: [Docker, Git, etc.]
-- **Otros**: [Diseño UI/UX, Análisis de datos, etc.]
+- **Lenguajes**: PHP, JavaScript, Dart
+- **Frameworks**: Laravel, Flutter, Astro, React, Next.js, Tailwind CSS
+- **Herramientas**: Git, GitHub, VS Code, Hostinger
+- **Base de datos**: MySQL, PostgreSQL, Firebase, MongoDB
 
 ## Proyectos destacados
-- [Proyecto 1](enlace) - Breve descripción
-- [Proyecto 2](enlace) - Breve descripción
-- [Proyecto 3](enlace) - Breve descripción
+- [Centro Virtual de Negocios](https://networking.virtualbusinessc.com) - Plataforma web para networking empresarial
+- [ExpoPyme 2025](https://expopyme.virtualbusinessc.com) - Sitio web para evento de pequeñas y medianas empresas
+- [Encuentro Industrial Emqro](https://encuentroindustrial.emqro.com) - Portal para evento industrial
+- [App Centro Virtual de Negocios](https://play.google.com/store/apps/details?id=com.mycompany.plataformavn&hl=es_419) - Aplicación móvil desarrollada con Flutter
+- [Seccion1](https://www.ctmseccion1.com) - Plataforma web corporativa
+- [Municipalidad Provincial de Caravelí](https://www.municaraveli.gob.pe) - Portal gubernamental
 
 ## Estadísticas de GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
 
 ## Contáctame
-- 📫 Email: [tu@email.com]
-- 💼 LinkedIn: [tu perfil](enlace)
-- 🐦 Twitter: [@usuario](enlace)
+- 📫 Email: davdamian98@gmail.com
+- 💼 LinkedIn: [David Reynaldo Damian Mamani](https://pe.linkedin.com/in/david-reynaldo-damian-mamani-2836a6276)
+- 📱 WhatsApp: +51931784733
 
 ---
 ⭐️ De [TU_USUARIO](https://github.com/TU_USUARIO)
