@@ -1,16 +1,29 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy [Tu Nombre]
 
-<!--
-**DDamian98/DDamian98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+- 💻 Desarrollador de [tecnologías que usas]
+- 🌱 Actualmente aprendiendo [tecnología o habilidad]
+- 🔭 Trabajando en [proyecto actual]
+- 🎓 [Tu formación académica]
 
-Here are some ideas to get you started:
+## Habilidades
+- **Lenguajes**: [Python, JavaScript, etc.]
+- **Frameworks**: [React, Django, etc.]
+- **Herramientas**: [Docker, Git, etc.]
+- **Otros**: [Diseño UI/UX, Análisis de datos, etc.]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos destacados
+- [Proyecto 1](enlace) - Breve descripción
+- [Proyecto 2](enlace) - Breve descripción
+- [Proyecto 3](enlace) - Breve descripción
+
+## Estadísticas de GitHub
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+
+## Contáctame
+- 📫 Email: [tu@email.com]
+- 💼 LinkedIn: [tu perfil](enlace)
+- 🐦 Twitter: [@usuario](enlace)
+
+---
+⭐️ De [TU_USUARIO](https://github.com/TU_USUARIO)
