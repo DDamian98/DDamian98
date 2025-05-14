@@ -23,15 +23,6 @@
 ## Mi actividad en GitHub
 ![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DDamian98&theme=radical)
 
-## Calendario de contribuciones
-![GitHub Contribution Calendar](https://ghchart.rshah.org/DDamian98)
-
-## Calendario de contribuciones
-![GitHub Contribution Calendar](https://ghchart.rshah.org/409ba5/DDamian98)
-
-## Gráfico de actividad
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DDamian98&theme=react-dark)](https://github.com/DDamian98)
-
 ## Contáctame
 - 📫 Email: davdamian98@gmail.com
 - 💼 LinkedIn: [David Reynaldo Damian Mamani](https://pe.linkedin.com/in/david-reynaldo-damian-mamani-2836a6276)
